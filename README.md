@@ -22,3 +22,4 @@ You can also set up a share for your Vagrant configuration that actually creates
 
 Once you've copied the plugin jar into your XNAT's **plugins** folder, you need to restart the Tomcat server. Your new plugin will be available as soon as the restart and initialization process is completed.
 
+# dummy_datatype
